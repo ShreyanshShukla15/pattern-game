@@ -14,6 +14,15 @@ footer {
     color: #FEF2BF;
 }
 
+.start {
+    color: rgb(250, 8, 214);
+    border: 10px solid black;
+    border-radius: 20%;
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+
 .container {
     display: block;
     width: 50%;
